@@ -1,4 +1,4 @@
-## [Movie4star (website)](https://04-react-query-nine-tau.vercel.app)
+## [Movie4star](https://04-react-query-nine-tau.vercel.app)
 > A responsive web application that enables users to search, browse, and paginate through a movie database with smooth interactions and efficient data fetching. Built with TypeScript, React, Vite, and modern front-end best practices.
 
 ---
